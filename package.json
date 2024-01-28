@@ -15,13 +15,13 @@
     "@mintpond/mint-utils": "^2.6.1",
     "sha3": "2.1.2"
   },
-  "homepage": "https://github.com/MintPond/ref-stratum-firo",
+  "homepage": "https://github.com/Miguel974/ref-stratum-firo",
   "bugs": {
-    "url": "https://github.com/MintPond/ref-stratum-firo/issues"
+    "url": "https://github.com/Miguel974/ref-stratum-firo/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MintPond/ref-stratum-firo.git"
+    "url": "https://github.com/Miguel974/ref-stratum-firo.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
