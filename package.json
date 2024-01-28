@@ -1,5 +1,5 @@
 {
-  "name": "@mintpond/ref-stratum-firo",
+  "name": "@Miguel974/ref-stratum-firo",
   "version": "0.6.0",
   "description": "Firo reference stratum for testing, experimentation, and demonstration.",
   "main": "index.js",
